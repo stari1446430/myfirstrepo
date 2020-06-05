@@ -21,3 +21,4 @@ tape('cleanup', function (t) {
 })
 
 //this is second change
+//add base64
