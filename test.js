@@ -19,3 +19,5 @@ tape('cleanup', function (t) {
   server.close()
   t.end()
 })
+
+//add base64
